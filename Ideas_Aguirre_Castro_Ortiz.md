@@ -1,4 +1,4 @@
-##Ideas de Desarrollo de Proyectos
+## Ideas de Desarrollo de Proyectos
 1. Desarrollo de una aplicación basada en inteligencia artificial para la automatización de la toma de asistencia mediante el análisis de imágenes capturadas por cámaras.
 2. Investigación sobre la implementación de un traductor en tiempo real a cualquier idioma utilizando técnicas avanzadas de inteligencia artificial.
 3. Exploración de las capacidades de GPT para mejorar la eficacia y precisión en pruebas de pentesting: un enfoque innovador en ciberseguridad.
